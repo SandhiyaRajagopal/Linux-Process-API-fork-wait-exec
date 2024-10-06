@@ -24,6 +24,7 @@ Test the C Program for the desired output.
 # PROGRAM:
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
+
 ```
 #include <stdio.h>
 #include <sys/types.h>
@@ -51,6 +52,7 @@ int main(void)
 ![image](https://github.com/user-attachments/assets/b1d5de35-165b-437d-9f00-dedd53b092aa)
 
 ## C Program to create new process using Linux API system calls fork() and exit()
+
 ```
 #include <stdio.h>
 #include<stdlib.h>
